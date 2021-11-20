@@ -21,6 +21,8 @@ Download zip or git clone link:<br/>
 >>python3 -m pip install -r pack<br/>
 >>python fbjail.py [a valid number int] (This Version Supports Only Bangladeshi Number)</b><br/>
 <br/><br/>
+>> <b> Watch Video Tutorial :</b> <a href="https://youtu.be/DXJTsRt2P20">Click Here</a>
+<br/>
 
 <br/><b>Send Issues</b>: <a href="https://facebook.com/josifkhangg">Click Here</a><br/><br/>
 <br/><a href="https://facebook.com/109845683903349">Follow</a><b>  Official Page |</b>
