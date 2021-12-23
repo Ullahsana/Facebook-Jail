@@ -17,12 +17,11 @@ Download zip or git clone link:<br/>
 ✓✓Commands✓✓
 <br/><br/><b>
 >>git clone https://github.com/josifkhan/Facebook-Jail <br/>
->>cd Facebook-Jail <br/>
->>python3 -m pip install -r pack<br/>
->>python fbjail.py [a valid number int] (This Version Supports Only Bangladeshi Number)</b><br/>
-<br/><br/>
->><a href="https://youtu.be/DXJTsRt2P20"><img src="https://img.shields.io/badge/Video Tutorial-How To Use-red"/></a>
-<br/>
+  - cd Facebook-Jail <br/>
+  - python3 -m pip install -r pack<br/>
+  - python fbjail.py [a valid number int]</b><br/>
+
+<a href="https://youtu.be/DXJTsRt2P20"><img src="https://img.shields.io/badge/Video Tutorial-How To Use-red"/></a>
 
   - <a href="https://facebook.com/109845683903349"><img src="https://img.shields.io/badge/Like Us-Facebook Page-blue"/></a>
   - <a href="https://github.com/josifkhan"><img src="https://img.shields.io/badge/Follow Us-GitHub Repo-orange"/></a>
