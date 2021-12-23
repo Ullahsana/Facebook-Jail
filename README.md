@@ -21,13 +21,14 @@ Download zip or git clone link:<br/>
 >>python3 -m pip install -r pack<br/>
 >>python fbjail.py [a valid number int] (This Version Supports Only Bangladeshi Number)</b><br/>
 <br/><br/>
->> <b> Watch Video Tutorial :</b> <a href="https://youtu.be/DXJTsRt2P20">Click Here</a>
+>><a href="https://youtu.be/DXJTsRt2P20"><img src="https://img.shields.io/badge/Video Tutorial-How To Use-red"/></a>
 <br/>
 
-<br/><b>Send Issues</b>: <a href="https://facebook.com/josifkhangg">Click Here</a><br/><br/>
-<br/><a href="https://facebook.com/109845683903349">Follow</a><b>  Official Page |</b>
-<br/><a href="https://github.com/josifkhan">Follow</a><b>  Github |</b>
-<br/><a href="https://facebook.com/groups/437537707116624/">Join In</a><b>  Official Group |</b>
-<br/><a href="https://t.me/termuxbangla">Join In</a><b>  Telegram Group|</b>
-<br/><a href="https://t.me/hacker101community">Join In</a><b>  Telegram Channel|</b><br/><br/>
-   
+  - <a href="https://facebook.com/109845683903349"><img src="https://img.shields.io/badge/Like Us-Facebook Page-blue"/></a>
+  - <a href="https://github.com/josifkhan"><img src="https://img.shields.io/badge/Follow Us-GitHub Repo-orange"/></a>
+  - <a href="https://facebook.com/groups/437537707116624/"><img src="https://img.shields.io/badge/Join In-Facebook Group-yellow"/></a>
+  - <a href="https://t.me/termuxbangla"><img src="https://img.shields.io/badge/Join In-Telegram Group-green"/></a>
+  - <a href="https://t.me/hacker101community"><img src="https://img.shields.io/badge/Subscribe-Telegram Channel-red"/></a><br/><br/>
+
+
+
